@@ -1,2 +1,2 @@
 # scientific-calculator
-Version created by feature-ui branch.
+Includes ui and logic updates.
